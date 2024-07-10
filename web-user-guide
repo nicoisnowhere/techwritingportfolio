@@ -1,45 +1,66 @@
 # Introduction to the MyUHD Manage Classes Tile
+
 > This is the markdown version of an exerpt from my MadCap Flare-based user guides for the
 University of Houston-Downtown’s Oracle PeopleSoft student portal.
+
 **Manage Classes** is the third tile in the myUHD Student Home. Here, you can
 enroll, view your classes, and plan courses.
+
 The page heading lists your current selected semester, degree type
 (undergraduate or graduate), and university. Below, the page splits between the
 left-hand navigation menu and the viewing panel. Menu sections include
 **Enrollment**, **Course Planning**, **Course History**, and **6W Drop Count**.
 ## Enrollment
+
 In **Enrollment**, you can view and manage your current and future courses. It
 contains the following subsections:
+
 1. **View My Classes**: View or print detailed class information, such as start
 times, room numbers, and enrollment status.
+
 2. **Class Search and Enroll**: Search and enroll for classes by class name, catalog
 number, subject, and more.
+
 3. **Classic Search**: Search, enroll, and view classes using drop-down filters in
 the classic layout.
+
 4. **Enroll by My Requirements**: Enroll and view classes using your Academic
 Requirements report.
+
 5. **Swap Classes**: Select a class to drop and another to enroll for a class
 enrollment swap.
+
 6. **Drop Classes**: Select classes to drop without swapping and complete the
 drop survey.
+
 7. **Shopping Cart**: View and manage classes in your shopping cart to complete
 or cancel enrollment.
+
 ## Course Planning
+
 In **Course Planning**, you can plan your future courses and view important
 enrollment dates and limits. It contains the following subsections:
+
 1. **Browse Course Catalog**: Search and view classes by class name, catalog
 number, subject, and more.
+
 2. **Planner**: Add and arrange classes in your course planner using the course
 catalog or your requirements report.
+
 3. **My Enrollment Periods**: View open enrollment dates by session and term
 enrollment limits.
+
 ## Course History
+
 In **Course History**, you can view your past, current, and future courses and grades,
 including transferred courses. Click on courses taken at UHD to view detailed
 course information. Course details are unavailable for transfer courses.
+
 In the top left corner of the course list, click on the square button to filter courses
 by status.
+
 ## 6W Drop Count
+
 In **6W Drop Count**, you can view your course drop count status for UHD and other
 Texas institutions. Texas state law limits unacceptable drops to six total drops.
 Monitor your drop counts, because students who exceed the limits face academic
